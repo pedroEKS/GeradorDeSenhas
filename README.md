@@ -20,4 +20,3 @@ A proteção de senhas é fundamental na era digital atual, onde a maioria das n
 - **Avaliação de Força**: O programa avalia se a senha gerada é fraca, média ou forte.
 - **Armazenamento Seguro**: As senhas podem ser salvas de forma criptografada em um arquivo.
 - **Interface Gráfica Simples**: Fácil de usar, com opções claras para gerar e gerenciar senhas.
-
